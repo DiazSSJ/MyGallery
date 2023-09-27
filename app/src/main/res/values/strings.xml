@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="paisaje">Paisaje Bonito</string>
+    <string name="paisaje_year">2023</string>
+    <string name="paisaje_description">Admirando el paisaje juntos desde la montaña</string>
+
+    <string name="concierto">Concierto</string>
+    <string name="concierto_year">06-2023</string>
+    <string name="concierto_description">Apreciando al YsyA por primera vez juntos</string>
+
+    <string name="propuesta">Propuesta</string>
+    <string name="propuesta_year">05-2023</string>
+    <string name="propuesta_description">Uniendo nuestras vidas</string>
+
+    <string name="cumple">Cumple</string>
+    <string name="cumple_year">04-2023</string>
+    <string name="cumple_description">Mi primer cumpleaños estando juntos</string>
+
+    <string name="casita">Casita</string>
+    <string name="casita_year">2023</string>
+    <string name="casita_description">En casita tomando un descanso</string>
+
+    <string name="rodada">Rodada</string>
+    <string name="rodada_year">01-2023</string>
+    <string name="rodada_description">Nuestra primera rodada a Buga</string>
+
+    <string name="cumpleNando">Cumple Nando</string>
+    <string name="cumpleNando_year">12-2022</string>
+    <string name="cumpleNando_description">Comenzando a escribir nuestra historia</string>
+
+    <string name="miradas">Miradas</string>
+    <string name="miradas_year">2021</string>
+    <string name="miradas_description">La mirada con mas amor y mas pura</string>
+
+    <string name="electrico">Electrico</string>
+    <string name="electrico_year">2015</string>
+    <string name="electrico_description">Llegando a llenar mi corazoncito de amor</string>
+
+    <string name="parchado">Parchado</string>
+    <string name="parchado_year">2020</string>
+    <string name="parchado_description">Mas comodo no se puede estar</string>
+
+    <string name="name_teban">Juan Steban Diaz Ramirez</string>
+    <string name="codigo">2024147</string>
+    <string name="botton_next">Next</string>
+    <string name="botton_previous">Back</string>
+    <string name="botton_refresh">Refresh</string>
+    <string name="boton_para_refrescar_imagenes">Boton para refrescar imagenes</string>
+    <string name="vacio">" "</string>
+    <string name="holis">Holis</string>
+</resources>
